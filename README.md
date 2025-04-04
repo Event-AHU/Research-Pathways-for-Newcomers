@@ -7,8 +7,18 @@
 
 
 ### 代码基础
-* Python：
-* PyTorch：
+
+* **Python**
+  1). [[https://www.w3schools.com/python/](https://www.w3schools.com/python/)]
+  
+  
+* **PyTorch**
+  [[https://pytorch.org/](https://pytorch.org/)]
+  [[PyTorch Tutorials](https://pytorch.org/tutorials/)] 
+  [[PyTorch Beginner Series (Youtube)](https://www.youtube.com/playlist?list=PL_lsbAsL_o2CTlGHgMxNrKhzP97BaG9ZN)]
+
+* [[**EventAHU Group**](https://github.com/Event-AHU)] 
+
 
 
 ### 数学基础

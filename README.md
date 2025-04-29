@@ -59,6 +59,11 @@
 * **神经网络与深度学习**
   [[官网主页](https://nndl.github.io/)]
   [[pdf](https://nndl.github.io/nndl-book.pdf)]
+
+
+### 预训练大模型 
+
+* [[《大规模语言模型：从理论到实践》 第二版](https://intro-llm.github.io/)]
   
 
 

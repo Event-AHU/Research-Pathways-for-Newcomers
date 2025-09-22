@@ -50,6 +50,8 @@
 
 * [[大语言模型 LLMBook](https://www.datawhale.cn/learn/summary/107)] [[PDF](https://github.com/datawhalechina/llmbook/blob/main/LLMBook.pdf)] [[Bilibili](https://space.bilibili.com/431850986/lists/4940683?type=season)]
 
+* [[Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM)]
+
 
 ### 深度学习课程
 

@@ -62,6 +62,9 @@
   - Stanford CS224N: NLP with Deep Learning | Spring 2024 | [[https://www.youtube.com/playlist?list=PLoROMvodv4rOaMFbaqxPDoLWjDaRAdP9D](https://www.youtube.com/playlist?list=PLoROMvodv4rOaMFbaqxPDoLWjDaRAdP9D)]
 
 
+### 物理神经网络 PINN 
+* [[PINN_Paper_List](https://github.com/Event-AHU/PINN_Paper_List)]
+
 
 
 

@@ -52,6 +52,9 @@
 
 * [[Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM)]
 
+* [[Stanford CME295 Transformers & LLMs | Autumn 2025](https://cme295.stanford.edu/syllabus/)]
+  [[Youtube Video List](https://www.youtube.com/playlist?list=PLoROMvodv4rOCXd21gf0CF4xr35yINeOy)]
+
 
 ### 深度学习课程
 

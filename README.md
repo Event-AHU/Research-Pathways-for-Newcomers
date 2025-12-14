@@ -65,6 +65,11 @@
 ### 物理神经网络 PINN 
 * [[PINN_Paper_List](https://github.com/Event-AHU/PINN_Paper_List)]
 
+### 深度强化学习 Deep Reinforcement Learning 
+* **Stanford CS224R Deep Reinforcement Learning | Spring 2025**
+  [[Youtube](https://www.youtube.com/watch?v=EvHRQhMX7_w)]
+
+* 
 
 
 

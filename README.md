@@ -68,8 +68,8 @@
 ### 深度强化学习 Deep Reinforcement Learning 
 * **Stanford CS224R Deep Reinforcement Learning | Spring 2025**
   [[Youtube](https://www.youtube.com/watch?v=EvHRQhMX7_w)]
-  [[Homepage](https://online.stanford.edu/courses/xcs224r-deep-reinforcement-learning)] 
-
+  [[cs224r.stanford.edu](https://cs224r.stanford.edu/)]  
+  
 
 
 

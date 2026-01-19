@@ -33,20 +33,37 @@
   
 * **《机器学习》 周志华**
   [[pdf](https://jingyuexing.github.io/Ebook/Machine_Learning/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0_%E5%91%A8%E5%BF%97%E5%8D%8E.pdf)]
+  
+  <img src="ebook_figures/%E8%A5%BF%E7%93%9C%E4%B9%A6.jpeg" width="400" />
 
+  
 * **西瓜书** 配套《机器学习》公式推导过程
-  [[URL](https://github.com/datawhalechina/pumpkin-book/releases)] 
+  [[URL](https://github.com/datawhalechina/pumpkin-book/releases)]
+  
+  <img src="ebook_figures/%E5%8D%97%E7%93%9C%E4%B9%A6.jpeg" width="400" />
+
   
 * **《动手学深度学习》第二版** [[https://zh.d2l.ai/](https://zh.d2l.ai/)] **李沐**
   [[PyTorch版本pdf文档](https://zh-v2.d2l.ai/d2l-zh-pytorch.pdf)]
   [[Apache MXNet/Gluon中文频道](https://www.youtube.com/@MXNetGluon/videos)]
+
+  <img src="ebook_figures/%E5%8A%A8%E6%89%8B%E5%AD%A6%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0.png" width="400" />
+
   
 * **神经网络与深度学习** **邱锡鹏** 
   [[官网主页](https://nndl.github.io/)]
   [[pdf](https://nndl.github.io/nndl-book.pdf)]
 
+  <img src="ebook_figures/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E4%B8%8E%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0-%E9%82%B1%E9%94%A1%E9%B9%8F.jpeg" width="400" />
+  
+
 * **统计学习方法（第二版）李航**
   [[PDF](https://www.dropbox.com/scl/fi/4qxrioh87i2uuk7iig68p/2-Z-Library.pdf?rlkey=lrnq6qaqfajsfrvmu1wq4iu0o&st=1c012mzb&dl=0)]
+
+  <img src="ebook_figures/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95%20%E6%9D%8E%E8%88%AA%20%E7%AC%AC%E4%BA%8C%E7%89%88.png" width="400" />
+
+  
+
 
 
 ### 预训练大模型 

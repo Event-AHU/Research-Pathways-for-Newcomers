@@ -31,17 +31,22 @@
 
 ### 机器学习课程
   
-* **《机器学习》--- 周志华 西瓜书**
+* **《机器学习》 周志华**
   [[pdf](https://jingyuexing.github.io/Ebook/Machine_Learning/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0_%E5%91%A8%E5%BF%97%E5%8D%8E.pdf)]
-  [[南瓜书](https://github.com/datawhalechina/pumpkin-book/releases)] 
+
+* **西瓜书** 配套《机器学习》公式推导过程
+  [[URL](https://github.com/datawhalechina/pumpkin-book/releases)] 
   
-* **《动手学深度学习》第二版** [[https://zh.d2l.ai/](https://zh.d2l.ai/)]
+* **《动手学深度学习》第二版** [[https://zh.d2l.ai/](https://zh.d2l.ai/)] **李沐**
   [[PyTorch版本pdf文档](https://zh-v2.d2l.ai/d2l-zh-pytorch.pdf)]
   [[Apache MXNet/Gluon中文频道](https://www.youtube.com/@MXNetGluon/videos)]
   
-* **神经网络与深度学习**
+* **神经网络与深度学习** **邱锡鹏** 
   [[官网主页](https://nndl.github.io/)]
   [[pdf](https://nndl.github.io/nndl-book.pdf)]
+
+* **统计学习方法（第二版）李航**
+  [[PDF](https://www.dropbox.com/scl/fi/4qxrioh87i2uuk7iig68p/2-Z-Library.pdf?rlkey=lrnq6qaqfajsfrvmu1wq4iu0o&st=1c012mzb&dl=0)]
 
 
 ### 预训练大模型 

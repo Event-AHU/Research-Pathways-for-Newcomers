@@ -70,13 +70,24 @@
 
 * [[《大规模语言模型：从理论到实践》 第二版](https://intro-llm.github.io/)]
 
+  <img src="ebook_figures/llmfudanuniversity.png" width="400" />
+
+
 * [[大语言模型 LLMBook](https://www.datawhale.cn/learn/summary/107)] [[PDF](https://github.com/datawhalechina/llmbook/blob/main/LLMBook.pdf)] [[Bilibili](https://space.bilibili.com/431850986/lists/4940683?type=season)]
+
+  <img src="ebook_figures/LLMBook.jpeg" width="400" />
+
 
 * [[Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM)]
 
+  <img src="ebook_figures/awesomechinesellm.png" width="400" />
+
+
 * [[Stanford CME295 Transformers & LLMs | Autumn 2025](https://cme295.stanford.edu/syllabus/)]
   [[Youtube Video List](https://www.youtube.com/playlist?list=PLoROMvodv4rOCXd21gf0CF4xr35yINeOy)]
+  
   <img src="ebook_figures/cme295course.png" width="400" />
+
   
 * **Build a Large Language Model (From Scratch)**
   [[GitHub](https://github.com/rasbt/LLMs-from-scratch)]

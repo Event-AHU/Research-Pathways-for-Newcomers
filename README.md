@@ -77,6 +77,15 @@
 * [[Stanford CME295 Transformers & LLMs | Autumn 2025](https://cme295.stanford.edu/syllabus/)]
   [[Youtube Video List](https://www.youtube.com/playlist?list=PLoROMvodv4rOCXd21gf0CF4xr35yINeOy)]
 
+* **Build a Large Language Model (From Scratch)**
+  [[GitHub](https://github.com/rasbt/LLMs-from-scratch)]
+
+  <img src="ebook_figures/buildallm.jpeg" width="400" />
+
+
+
+
+
 
 ### 深度学习课程
 

@@ -103,18 +103,33 @@
 
 * **MIT 6.S191 Introduction to Deep Learning** [Year 2025] [[Home](https://introtodeeplearning.com/)]
 
+  <img src="ebook_figures/MIT6.S191_introductiontodeeplearning.png" width="400" />
+
+  <img src="ebook_figures/MIT6.S191_introductiontodeeplearning_schedule.png" width="400" />
+
+
 * **CS224N: Natural Language Processing with Deep Learning**
   - Stanford / Winter 2025 [[https://web.stanford.edu/class/cs224n/](https://web.stanford.edu/class/cs224n/)]
   - Stanford CS224N: NLP with Deep Learning | Spring 2024 | [[https://www.youtube.com/playlist?list=PLoROMvodv4rOaMFbaqxPDoLWjDaRAdP9D](https://www.youtube.com/playlist?list=PLoROMvodv4rOaMFbaqxPDoLWjDaRAdP9D)]
-
-
+  
+  <img src="ebook_figures/CS224N_nlpwithdeeplearning.png" width="400" />
+  
+  <img src="ebook_figures/StanfordCS224N_youtubevideolist.png" width="400" />
+  
+  
 ### 物理神经网络 PINN 
 * [[PINN_Paper_List](https://github.com/Event-AHU/PINN_Paper_List)]
-
+  
+  <img src="ebook_figures/PINN_simpleTutorial.png" width="400" /> 
+  
+  
 ### 深度强化学习 Deep Reinforcement Learning 
 * **Stanford CS224R Deep Reinforcement Learning | Spring 2025**
   [[Youtube](https://www.youtube.com/watch?v=EvHRQhMX7_w)]
-  [[cs224r.stanford.edu](https://cs224r.stanford.edu/)]  
+  [[cs224r.stanford.edu](https://cs224r.stanford.edu/)]
+  
+  <img src="ebook_figures/CS224R_drl2025" width="400" /> 
+
   
 
 

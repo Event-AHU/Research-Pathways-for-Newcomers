@@ -100,7 +100,8 @@
 
   <img src="ebook_figures/buildallm.jpeg" width="400" />
 
-
+* **Current BestPracticesfor Training LLMsfrom Scratch** Authors: Rebecca Li, Andrea Parker, Justin Tenuto
+  [[Current-Best-Practices-for-Training-LLMs-from-Scratch-Final.pdf](https://wandb.ai/site/wp-content/uploads/2023/09/Current-Best-Practices-for-Training-LLMs-from-Scratch-Final.pdf)]
 
 
 

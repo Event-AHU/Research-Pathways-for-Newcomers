@@ -97,6 +97,9 @@
   [免费 PDF](https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf)
 - **《强化学习的数学原理》**（赵世钰，西湖大学）  
   [B站视频](https://www.bilibili.com/video/BV1sd4y167NS/) \| [GitHub 教材](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)
+- **Tianshou (天授)** 
+  [[Github](https://github.com/thu-ml/tianshou)] 
+  [[Home](https://tianshou.org/en/stable/)] 
 
 ---
 

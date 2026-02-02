@@ -82,6 +82,11 @@
 - **Stanford CS224N: NLP with Deep Learning (2025)**  
   [课程主页](https://web.stanford.edu/class/cs224n/) \| [YouTube 视频合集](https://www.youtube.com/playlist?list=PLoROMvodv4rOaMFbaqxPDoLWjDaRAdP9D)
 
+- **【零基础课】现代深度学习基础**  王乃岩
+  [[B站](https://space.bilibili.com/3632310549219851/lists?sid=6761852&spm_id_from=333.788.0.0)]
+
+
+
 ---
 
 ## 🔬 新兴方向：拓展你的科研视野

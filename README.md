@@ -85,6 +85,9 @@
 - **【零基础课】现代深度学习基础**  王乃岩
   [[B站](https://space.bilibili.com/3632310549219851/lists?sid=6761852&spm_id_from=333.788.0.0)]
 
+- **The Science of Deep Learning**
+  [[PDF](https://assets.cambridge.org/97811088/35084/frontmatter/9781108835084_frontmatter.pdf)] 
+
 
 
 ---

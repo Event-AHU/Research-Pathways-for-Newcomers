@@ -74,7 +74,7 @@
 
 * [[Cortex 从零构建大模型：从预训练到RLHF的完整实践](https://github.com/qibin0506/Cortex)] 
 
-* [[《动手学大模型》系列编程实践教程](https://github.com/Lordog/dive-into-llms)]
+* [[《动手学大模型》系列编程实践教程](https://github.com/Lordog/dive-into-llms)] [[PPT (链接: https://pan.baidu.com/s/1g2JabCDMhsndAqFfGBBsSw?pwd=AHUE 提取码: AHUE)]()]
 
 ---
 

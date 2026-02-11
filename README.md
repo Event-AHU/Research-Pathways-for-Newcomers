@@ -72,6 +72,9 @@
 | [Build a LLM from Scratch](https://github.com/rasbt/LLMs-from-scratch) | 从零实现 Transformer 架构 |
 | [Training LLMs from Scratch: Best Practices](https://wandb.ai/site/wp-content/uploads/2023/09/Current-Best-Practices-for-Training-LLMs-from-Scratch-Final.pdf) | 实战指南，来自 Weights & Biases |
 
+* [[Cortex 从零构建大模型：从预训练到RLHF的完整实践](https://github.com/qibin0506/Cortex)] 
+
+
 ---
 
 ## 🧠 深度学习进阶课程：站在巨人肩膀上

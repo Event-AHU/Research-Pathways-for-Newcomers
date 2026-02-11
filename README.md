@@ -76,6 +76,8 @@
 
 * [[《动手学大模型》系列编程实践教程](https://github.com/Lordog/dive-into-llms)] [[PPT (链接: https://pan.baidu.com/s/1g2JabCDMhsndAqFfGBBsSw?pwd=AHUE 提取码: AHUE)]()]
 
+
+
 ---
 
 ## 🧠 深度学习进阶课程：站在巨人肩膀上
@@ -92,8 +94,11 @@
 - **The Science of Deep Learning**
   [[PDF](https://assets.cambridge.org/97811088/35084/frontmatter/9781108835084_frontmatter.pdf)] 
 
-
-
+- **MIT 6.7960 Deep Learning, Fall 2024**
+  [[Youtube Video List](https://www.youtube.com/playlist?list=PLUl4u3cNGP63URZnh5iqBzDTDYPUTQT-8)]
+  [[Homepage](https://ocw.mit.edu/courses/6-7960-deep-learning-fall-2024/resources/lecture-videos/)]
+  
+  
 ---
 
 ## 🔬 新兴方向：拓展你的科研视野

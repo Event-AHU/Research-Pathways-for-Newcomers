@@ -1,7 +1,7 @@
 
 # 🚀 Research Pathways for Newcomers 
 
-<video src="https://github.com/user-attachments/assets/d5525b1f-4ddb-45d2-adc3-2be2046639af" width="640" height="360" controls muted loop>
+<video src="https://github.com/user-attachments/assets/d5525b1f-4ddb-45d2-adc3-2be2046639af" width="640" height="640" controls muted loop>
 </video>
 
 

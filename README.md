@@ -1,5 +1,9 @@
 
-# 🚀 Research Pathways for Newcomers
+# 🚀 Research Pathways for Newcomers 
+
+<video src="https://github.com/user-attachments/assets/d5525b1f-4ddb-45d2-adc3-2be2046639af" width="640" height="360" controls muted loop>
+</video>
+
 
 > **“路虽远，行则将至；事虽难，做则必成。”**  
 > 欢迎加入科研探索之旅！以下是你从入门到进阶的系统性成长路线图。

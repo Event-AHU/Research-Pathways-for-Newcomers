@@ -101,7 +101,10 @@
 - **MIT 6.7960 Deep Learning, Fall 2024**
   [[Youtube Video List](https://www.youtube.com/playlist?list=PLUl4u3cNGP63URZnh5iqBzDTDYPUTQT-8)]
   [[Homepage](https://ocw.mit.edu/courses/6-7960-deep-learning-fall-2024/resources/lecture-videos/)]
-  
+
+- [**AI Networks**](https://github.com/Event-AHU/AINetworks)
+
+
   
 ---
 

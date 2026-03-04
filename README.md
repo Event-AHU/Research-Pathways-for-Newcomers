@@ -104,8 +104,11 @@
 
 - [**AI Networks**](https://github.com/Event-AHU/AINetworks)
 
+- **Alice’s Adventures in adifferentiable wonderland --- A primer on designing neural networks**
+  [[Paper](https://arxiv.org/abs/2404.17625)]
+  [[Website](https://www.sscardapane.it/alice-book/)] 
 
-  
+    
 ---
 
 ## 🔬 新兴方向：拓展你的科研视野

@@ -108,7 +108,18 @@
   [[Paper](https://arxiv.org/abs/2404.17625)]
   [[Website](https://www.sscardapane.it/alice-book/)] 
 
-    
+- **Robot Learning: From Fundamentals to Foundation Models**, Semester: Spring 2026, Lecturer : Oier Mees
+[[https://cvg.ethz.ch/lectures/Robot-Learning/](https://cvg.ethz.ch/lectures/Robot-Learning/)] 
+[[Youtube](https://www.youtube.com/watch?v=aG8NPTPhwkE&list=PLPU18BnWYUZIpmc2GuFlSXVGJxXZVeZ2B)] 
+
+
+
+
+
+
+
+
+
 ---
 
 ## 🔬 新兴方向：拓展你的科研视野

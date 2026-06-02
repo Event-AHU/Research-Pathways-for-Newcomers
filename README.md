@@ -58,8 +58,11 @@
 | **《机器学习》（西瓜书）** | 周志华 | [PDF](https://jingyuexing.github.io/Ebook/Machine_Learning/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0_%E5%91%A8%E5%BF%97%E5%8D%8E.pdf) |
 | **《南瓜书》**（西瓜书公式详解） | Datawhale | [GitHub Releases](https://github.com/datawhalechina/pumpkin-book/releases) |
 | **《动手学深度学习》（第二版）** | 李沐 等 | [在线版](https://zh.d2l.ai/) \| [PyTorch PDF](https://zh-v2.d2l.ai/d2l-zh-pytorch.pdf) |
-| **《神经网络与深度学习》** | 邱锡鹏 | [官网](https://nndl.github.io/) \| [PDF](https://nndl.github.io/nndl-book.pdf) |
-| **《统计学习方法》（第二版）** | 李航 | [PDF](https://www.dropbox.com/scl/fi/4qxrioh87i2uuk7iig68p/2-Z-Library.pdf) |
+| **《神经网络与深度学习》** | 邱锡鹏 | [官网](https://nndl.github.io/) \| [PDF](https://nndl.github.io/nndl-book.pdf) | 
+| **《神经网络与深度学习》第二版（蒲公英书）** | 邱锡鹏 | [https://nndl.ai/nndl-v2/](https://nndl.ai/nndl-v2/) \| [nndl-v2.pdf](https://github.com/nndl/nndl/releases/download/book-pdf/nndl-v2.pdf) | 
+| **《统计学习方法》（第二版）** | 李航 | [PDF](https://www.dropbox.com/scl/fi/4qxrioh87i2uuk7iig68p/2-Z-Library.pdf) | 
+
+
 
 > 📌 建议：**边读边写代码**，每章推导+实现，效果翻倍！
 

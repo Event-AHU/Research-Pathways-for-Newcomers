@@ -60,6 +60,7 @@
 | **《动手学深度学习》（第二版）** | 李沐 等 | [在线版](https://zh.d2l.ai/) \| [PyTorch PDF](https://zh-v2.d2l.ai/d2l-zh-pytorch.pdf) |
 | **《神经网络与深度学习》** | 邱锡鹏 | [官网](https://nndl.github.io/) \| [PDF](https://nndl.github.io/nndl-book.pdf) | 
 | **《神经网络与深度学习》第二版（蒲公英书）** | 邱锡鹏 | [https://nndl.ai/nndl-v2/](https://nndl.ai/nndl-v2/) \| [nndl-v2.pdf](https://github.com/nndl/nndl/releases/download/book-pdf/nndl-v2.pdf) | 
+| **《大模型与智能体-从基础原理到系统构建与未来展望》** | 邱锡鹏 | [https://nndl.ai/llm-agent/](https://nndl.ai/llm-agent/) \| [llm-agent.pdf](https://github.com/nndl/llm-beginner/releases/download/book-llm-agent/llm-agent.pdf) | 
 | **《统计学习方法》（第二版）** | 李航 | [PDF](https://www.dropbox.com/scl/fi/4qxrioh87i2uuk7iig68p/2-Z-Library.pdf) | 
 
 

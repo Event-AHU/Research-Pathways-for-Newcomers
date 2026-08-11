@@ -1,4 +1,4 @@
-
+<img width="1329" height="786" alt="image" src="https://github.com/user-attachments/assets/41c972c1-c4f1-4c92-8afc-6b16ef5b66ae" />
 # 🚀 Research Pathways for Newcomers 
 
 <video src="https://github.com/user-attachments/assets/d5525b1f-4ddb-45d2-adc3-2be2046639af" width="640" height="640" controls muted loop>
@@ -141,7 +141,12 @@
   [B站视频](https://www.bilibili.com/video/BV1sd4y167NS/) \| [GitHub 教材](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)
 - **Tianshou (天授)** 
   [[Github](https://github.com/thu-ml/tianshou)] 
-  [[Home](https://tianshou.org/en/stable/)] 
+  [[Home](https://tianshou.org/en/stable/)]
+
+### 智能体 (Agent) 
+-《**Agentic Design Patterns**》中文翻译项目 - 系统介绍 AI Agent 系统的各种设计模式
+  [[Paper](https://adp.xindoo.xyz/)]
+
 
 ---
 

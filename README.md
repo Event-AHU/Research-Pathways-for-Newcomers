@@ -142,7 +142,7 @@
   [[Github](https://github.com/thu-ml/tianshou)] 
   [[Home](https://tianshou.org/en/stable/)]
 
-### 智能体 (Agent) 
+### 🌊 智能体 (Agent) 
 -《**Agentic Design Patterns**》中文翻译项目 - 系统介绍 AI Agent 系统的各种设计模式
   [[Paper](https://adp.xindoo.xyz/)]
 

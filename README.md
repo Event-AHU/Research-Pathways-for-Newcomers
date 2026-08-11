@@ -1,4 +1,3 @@
-<img width="1329" height="786" alt="image" src="https://github.com/user-attachments/assets/41c972c1-c4f1-4c92-8afc-6b16ef5b66ae" />
 # 🚀 Research Pathways for Newcomers 
 
 <video src="https://github.com/user-attachments/assets/d5525b1f-4ddb-45d2-adc3-2be2046639af" width="640" height="640" controls muted loop>

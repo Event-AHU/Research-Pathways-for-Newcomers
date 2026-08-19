@@ -131,6 +131,10 @@
 - [Event-AHU / PINN_Paper_List](https://github.com/Event-AHU/PINN_Paper_List)  
   （持续更新：论文、代码、复现指南）
 
+
+
+
+
 ### 🎮 深度强化学习（Deep RL）
 - **Stanford CS224R (2025)**  
   [课程主页](https://cs224r.stanford.edu/) \| [YouTube](https://www.youtube.com/watch?v=EvHRQhMX7_w)
@@ -141,6 +145,13 @@
 - **Tianshou (天授)** 
   [[Github](https://github.com/thu-ml/tianshou)] 
   [[Home](https://tianshou.org/en/stable/)]
+- **Deep Reinforcement Learning** - CS 185/285 at UC Berkeley    
+  [[Homepage](https://rail.eecs.berkeley.edu/deeprlcourse/ )]
+  [[Youtube](https://www.youtube.com/watch?v=DD8APgTEix4)]   
+
+
+
+
 
 ### 🌊 智能体 (Agent) 
 - 《**Agentic Design Patterns**》中文翻译项目 - 系统介绍 AI Agent 系统的各种设计模式

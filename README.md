@@ -113,7 +113,11 @@
 
 - **Robot Learning: From Fundamentals to Foundation Models**, Semester: Spring 2026, Lecturer : Oier Mees
 [[https://cvg.ethz.ch/lectures/Robot-Learning/](https://cvg.ethz.ch/lectures/Robot-Learning/)] 
-[[Youtube](https://www.youtube.com/watch?v=aG8NPTPhwkE&list=PLPU18BnWYUZIpmc2GuFlSXVGJxXZVeZ2B)] 
+[[Youtube](https://www.youtube.com/watch?v=aG8NPTPhwkE&list=PLPU18BnWYUZIpmc2GuFlSXVGJxXZVeZ2B)]
+
+- MAS.S60, 6.S985 • Spring 2026 • MIT - **Modeling: MultiModal AI**, aka, How to AI (Almost) Anything
+  [[Homepage](https://mit-mi.github.io/mmai-course/spring2026/schedule/)] 
+  
 
 
 

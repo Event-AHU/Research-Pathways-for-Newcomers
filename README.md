@@ -118,7 +118,8 @@
 - MAS.S60, 6.S985 • Spring 2026 • MIT - **Modeling: MultiModal AI**, aka, How to AI (Almost) Anything
   [[Homepage](https://mit-mi.github.io/mmai-course/spring2026/schedule/)] 
   
-
+- **VALSE_Webinar B站讲座视频** [https://space.bilibili.com/562085182](https://space.bilibili.com/562085182)
+  为计算机视觉、图像处理、模式识别与机器学习等研究领域内的华人青年学者提供深入学术交流的舞台。
 
 
 

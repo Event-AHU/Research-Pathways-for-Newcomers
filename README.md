@@ -136,9 +136,9 @@
 - [Event-AHU / PINN_Paper_List](https://github.com/Event-AHU/PINN_Paper_List)  
   （持续更新：论文、代码、复现指南）
 
-### Physics-based Deep Learning Book (v0.3, the GenAI edition)  
-Welcome to the Physics-based Deep Learning Book (v0.3, the GenAI edition) 👋
-TL;DR: This document is a hands-on, comprehensive guide to deep learning in the realm of physical simulations. Rather than just theory, we emphasize practical application: every concept is paired with interactive Jupyter notebooks to get you up and running quickly. Beyond traditional supervised learning, we dive into physical loss-constraints, differentiable simulations, diffusion-based approaches for probabilistic generative AI, as well as reinforcement learning and advanced neural network architectures. These foundations are paving the way for the next generation of scientific foundation models. We are living in an era of rapid transformation. These methods have the potential to redefine what’s possible in computational science.
+### 🌊 Physics-based Deep Learning Book (v0.3, the GenAI edition)  
+
+- Welcome to the Physics-based Deep Learning Book (v0.3, the GenAI edition) 👋 TL;DR: This document is a hands-on, comprehensive guide to deep learning in the realm of physical simulations. Rather than just theory, we emphasize practical application: every concept is paired with interactive Jupyter notebooks to get you up and running quickly. Beyond traditional supervised learning, we dive into physical loss-constraints, differentiable simulations, diffusion-based approaches for probabilistic generative AI, as well as reinforcement learning and advanced neural network architectures. These foundations are paving the way for the next generation of scientific foundation models. We are living in an era of rapid transformation. These methods have the potential to redefine what’s possible in computational science.
 
 [[Homepage](https://physicsbaseddeeplearning.org/intro.html)]
 [[Github](https://github.com/tum-pbs/pbdl-book)] 
